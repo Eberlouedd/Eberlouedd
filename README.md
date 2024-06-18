@@ -2,7 +2,7 @@
 
 ## My name is **Kenzy Yacini** !
 
-I'm a **42** & **Paris-Salay University** student 📖
+I'm a **42** student 📖
 
 I'm interested by web and mobile development, malwares and programming in general ! 💻
 
